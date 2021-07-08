@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SUNDAY QUIZ</string>
+    <string name="turtle">Turtle</string>
+    <string name="cheetah">Cheetah</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="leopard">Leopard</string>
+    <string name="todo">TODO</string>
+    <string name="what_is_the_fastest_animal_in_the_world">What is the fastest animal in the world?</string>
+    <string name="sunday_quiz">Sunday Quiz!</string>
+    <string name="_0_05">0:05</string>
+    <string name="your_final_score_is">Your Final Score is:-</string>
+    <string name="play_again">Play Again !</string>
+</resources>
